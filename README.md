@@ -66,5 +66,5 @@ This is the frontend for the AI-powered Email Reply Generator. It is built using
 
 ## Related Projects
 - [Backend Repository](https://github.com/JohnUfo/ai-email-writer.git) (Required to run the frontend)
-- [Chrome Extension](https://github.com/JohnUfo/ai-email-writer-extension.git) (For AI-powered email replies within Gmail)
+- [Chrome Extension](https://github.com/JohnUfo/ai-email-writer-extension.git) (AI-powered email reply generator extension for Gmail)
 
